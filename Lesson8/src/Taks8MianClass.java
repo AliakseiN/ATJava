@@ -17,9 +17,13 @@ public class Taks8MianClass {
 		  
 		readFromConsole read = new readFromConsole();
 	
-		 
-		  
-		  
+		Paragraph par = new Paragraph(); 
+		
+		  par.getInfo(); //visible from anywhere
+		  par.getInfoFromAnyWhere();////visible from anywhere
+		  par.infoOnlyInClass();// if show in another package it will be an error due to visible in package
+		  par.getParapraph();//visible from anywhere
+		  par.getInfoOnlyInPackage(); //Only visible in class Paragraph		  
 		  
 		  
 //		  
