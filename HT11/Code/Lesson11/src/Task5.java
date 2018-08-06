@@ -15,8 +15,7 @@ public class Task5 {
 
 		// После каждого слова текста, зхаканчивающегося заданной подстрокой, вставить
 		// указанное слово
-		// Arrays.asList(textToAdd).stream().forEach(text->System.out.println(String.format(HI_THERE,
-		// text)));
+		
 
 		Arrays.asList(textToAdd).stream()
 				.filter(text -> (text.endsWith("ex") || text.endsWith("ta") || text.endsWith("or")))
