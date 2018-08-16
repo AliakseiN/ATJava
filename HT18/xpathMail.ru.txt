@@ -1,0 +1,28 @@
+﻿//span[text()="Мой Мир"]
+//i[text()="Все проекты"]
+//a[text()="Картинки"]
+//label[@for="q"]
+//input[@id="search:submit"]
+//span[@id="cal"]
+//a[@href=""//lady.mail.ru/" ][1]
+//span[@class="tabs__dropdown-button o-dropdown__button js-click"]
+//h3[text()="ICQ"]
+//input[@id="mailbox:login"]
+//label[@class="mailbox__control i-font-md i-color-black"]
+(//a[@href="//sportmail.ru"])[2]
+//div[@class="news-item__link i-block i-relative m-bordered m-animated-shadow m-animated-borderless"]
+//div[@class="o-media"]
+//div[@class="rate__body i-pull-left"]
+//a[text()="Включить ленту"]
+
+
+
+
+
+
+
+
+
+
+
+
